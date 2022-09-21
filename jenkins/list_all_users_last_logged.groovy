@@ -23,3 +23,9 @@ User.getAll().each{ u ->
   }
 }
 return
+
+'''
+ref:
+- https://stackoverflow.com/a/30955925/9454903
+- https://github.com/cloudbees/jenkins-scripts/blob/master/get-lastlogin-users.groovy
+'''
